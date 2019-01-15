@@ -1,0 +1,12 @@
+
+.idea/
+.env
+*.log
+
+# Dependency directories
+node_modules/
+build/
+tmp/
+temp/
+dist/
+coverage/

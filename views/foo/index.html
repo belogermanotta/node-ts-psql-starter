@@ -1,0 +1,13 @@
+{% extends "../layout.html" %}
+
+{% block content %}
+<div>
+
+    <div>Foos:</div>
+
+    {% for foo in foos %}
+    <div>id: {{ foo.id }}, name: {{ foo.name }}</div>
+    {% endfor %}
+
+</div>
+{% endblock %}
