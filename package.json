@@ -41,6 +41,7 @@
     "fbgraph": "^1.4.1",
     "lodash": "^4.17.11",
     "lusca": "^1.6.1",
+    "merge": "1.2.1",
     "morgan": "^1.9.1",
     "nodemailer": "^4.7.0",
     "nunjucks": "^3.1.7",
